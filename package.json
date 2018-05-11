@@ -1,0 +1,18 @@
+{
+  "name": "voxbone",
+  "version": "1.0.0",
+  "description": "The Voxbone API interface module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "voxbone"
+  ],
+  "author": "Communiclique",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
